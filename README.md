@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arooba-zaman1211
 - 👀 I’m interested in Computer Programming, Maths, Stats , and Machine Learning 
-- 🌱 I’m currently learning Data Science and Data Structure
 - 💞️ I’m looking to collaborate on my Code and improve my skills 
 - 📫 You can reach me through my Email arooba1032@gmail.com
 
